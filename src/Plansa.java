@@ -1,4 +1,4 @@
-public class Plansa { //test git diff
+public class Plansa { //test <git diff>
     public enum Symbol {SX, SO, S_} 
     private Symbol[][] t;
 
