@@ -1,5 +1,5 @@
 public class Plansa {
-    public enum Symbol {SX, SO, S_}
+    public enum Symbol {SX, SO, S_} 
     private Symbol[][] t;
 
     public static final String RED = "\033[0;91m"; //Red
